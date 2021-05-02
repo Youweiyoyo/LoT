@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "navbar": "../../../components/t_navbar/index",
+    "van-nav-bar": "@vant/weapp/nav-bar/index"
+  },
+  "navigationStyle": "custom"
+}
